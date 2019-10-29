@@ -2,7 +2,7 @@
 """
 Created on Sun Jul 14 2019
 
-@author: Fan-Jiang + Chi-Kang
+@author: Fan-Jiang + KUO, CHI-KANG
 """
 from mpl_toolkits.mplot3d.axes3d import Axes3D
 import matplotlib.pyplot as plt
